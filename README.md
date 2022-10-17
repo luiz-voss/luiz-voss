@@ -16,12 +16,12 @@
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+ 
     
-    <div align="center">
 
-        ![Snake animation](https://github.com/luiz-voss/luiz-voss/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luiz-voss/luiz-voss/blob/output/github-contribution-grid-snake.svg)
   
-    </div>
+
 
 
 </div>
